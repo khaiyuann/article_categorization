@@ -1,7 +1,7 @@
 ![badge](http://ForTheBadge.com/images/badges/made-with-python.svg) ![badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 # article_categorization
-This program is used to develop a NLP deep learning model that categorizes articles into 5 categories based on its topic. The model was trained
+This program is used to develop a NLP deep learning model that categorizes articles into 5 categories based on its topic. The model was trained using a selection of BBC articles.
 
 # How to use
 Clone the repository and use the following scripts per your use case:
@@ -12,7 +12,7 @@ Clone the repository and use the following scripts per your use case:
 5. Plot of the training and testing process may be accessed through TensorBoard with the log stored in the 'logs' folder.
 
 # Results
-The model developed using an embedding layer and 2 hidden LSTM layers was scored using accuracy and f1-score, attaining 93.26% accuracy and 0.93 f1-score on the test dataset.
+The model developed using an embedding layer and 2 hidden bidirectional LSTM layers was scored using accuracy and f1-score, attaining 93.26% accuracy and 0.93 f1-score on the test dataset.
 
 Model architecture:
 
