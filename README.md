@@ -18,7 +18,7 @@ Model architecture:
 
 ![model](https://github.com/khaiyuann/article_categorization/blob/main/results/model.png)
 
-Train/test results (achieved 52.29% accuracy and f1 score):
+Train/test results (achieved 93.26% accuracy and 0.93 f1-score):
 
 ![train_test_results](https://github.com/khaiyuann/article_categorization/blob/main/results/train_test_result.png)
 
